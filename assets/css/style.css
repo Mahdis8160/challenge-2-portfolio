@@ -248,6 +248,10 @@ main {
   background-image: url("../images/webdesign.jpg");
   background-size: contain;
 }
+.web-design-recent {
+  background-image: url("../images/imgss.png");
+  background-size: contain;
+}
 
 /* end portfolio project images */
 
